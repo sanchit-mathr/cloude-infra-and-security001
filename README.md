@@ -83,21 +83,22 @@ Welcome to the **Cloud Infrastructure & Security** repository! This project show
 
 ## 📄 License
 
-This repository is meant for educational purposes only. You may reference the documentation or screenshots, but please credit the author.
+This repository is meant for educational purposes only. You may reference the documentation or screenshots, but please credit me the author.
 
 ---
 
 ## 🙋‍♂️ Author
 
 **Sanchit Mathur**  
-Cyber Security & Cloud Enthusiast  
+Cyber Security & cyber Enthusiast  
+Certified Ethical Hacker
 📧 mathursanchit7@gmail.com  
-🌐 [LinkedIn](https://www.linkedin.com/in/sanchit-mathur)
+🌐 LinkedIn - https://www.linkedin.com/in/sanchit-mathur
 
 ---
 
 ## ⭐ Contributions
 
-Suggestions or improvements? Feel free to [open an issue](https://github.com/sanchit-mathr/cloude-infra-and-security001/issues) or submit a pull request.
+Suggestions or improvements? Feel free to open an issue https://github.com/sanchit-mathr/cloude-infra-and-security001/issues or submit a pull request.
 
 ---
