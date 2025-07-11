@@ -20,14 +20,22 @@ Welcome to the **Cloud Infrastructure & Security** repository! This project show
 ├── Assignment-4-Load-Balancer/
 │ ├── Internal-External-LB-Steps.md
 │ └── Mockup-UI-Screens/
+├── Assignment-5-Public-Private-IP-Management/
+│ ├── Static-Dynamic-IP-Setup.md
+│ └── Screenshots/
+├── Assignment-6-VM-Access-Control/
+│ ├── RDP-SSH-Restrictions.md
+│ └── Screenshots/
+├── Assignment-7-Application-Server-Deployment/
+│ ├── Apache-IIS-Setup.md
+│ └── Screenshots/
+├── Assignment-8-Network-Traffic-Control/
+│ ├── Inbound-Outbound-Rules.md
+│ └── Screenshots/
 ├── Final-Architecture/
 │ ├── 3-Tier-App-Architecture.png
 │ └── Overview.md
 └── README.md
-
-yaml
-Copy
-Edit
 
 ---
 
@@ -68,7 +76,8 @@ Edit
 ## 📸 Preview
 
 ### 3-Tier Application on Azure  
-![3-tier-architecture](Final-Architecture/3-Tier-App-Architecture.png)
+![3-tier-architecture]<img width="1237" height="881" alt="image" src="https://github.com/user-attachments/assets/cef9bc82-1f0a-40c4-97c4-2846f8004dcc" />
+
 
 ---
 
